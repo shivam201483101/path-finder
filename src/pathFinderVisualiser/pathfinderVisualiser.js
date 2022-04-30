@@ -528,7 +528,7 @@ export default class PathFinderVisualiser extends React.Component {
                                     Clear Maze
                                 </button>
                                </td> 
-                               <td><a href="https://shivam201483101.github.io/mini-proj/"><button className="custom-btn btn-3"><span>Refresh Page</span></button></a></td></tr></table>
+                               <td><a href="https://shivam201483101.github.io/path-finder/"><button className="custom-btn btn-3"><span>Refresh Page</span></button></a></td></tr></table>
                             </div>
                             <div className="btn-group btn-block mt-2">
                                 <div className="input-group">
